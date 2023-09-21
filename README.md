@@ -11,5 +11,5 @@ My To-Do List is a simple Android application that allows you to manage your tas
 
 1. Add Task: Click the "Add Task" button and fill out the task form.
 2. Edit Task: Click on one of the task items in the list, then click "Edit" to modify the task information.
-3. Delete Task: In the task list, swipe the item to the right or left to delete it.
+3. Delete Task: Click on one of the task items in the list, then click "Delete" to delete the task.
 4. Mark as Completed: Click on a task that is already completed to mark it as done.

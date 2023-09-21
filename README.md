@@ -1,6 +1,7 @@
 # my-to-do-list
 
-My To-Do List is a simple Android application that allows you to manage your task list. This app utilizes SQLite to store and manage your activity data, enabling you to easily add, edit, and delete tasks
+My To-Do List is a simple Android application that allows you to manage your task list. This app utilizes SQLite to store and manage your activity data, enabling you to easily add, edit, and delete tasks.
+My To-Do List adalah aplikasi Android sederhana yang memungkinkan Anda mengelola daftar tugas Anda. Aplikasi ini menggunakan SQLite untuk menyimpan dan mengelola data aktivitas Anda, memungkinkan Anda dengan mudah menambahkan, mengedit, dan menghapus tugas.
 
 ## Tech Stack
 
